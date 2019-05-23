@@ -10,7 +10,7 @@ package javaApplication2;
  * each student has: a name (first and last name)
  * each student can: say their name (getName)
 
- * @author Sivagama
+ *may 23 2019
  */
 public class JavaApplication2 {
 

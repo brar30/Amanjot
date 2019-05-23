@@ -11,7 +11,7 @@ package javaApplication2;
  * each student can: say their name (getName)
 
  *may 23 2019
- */
+ AMANJOT KAUR BRAR**/
 public class JavaApplication2 {
 
     private String name;
@@ -38,6 +38,7 @@ public class JavaApplication2 {
     public void setName(String givenName) {
         name = givenName;
     }
+    System.out.println("fetch eg");
     
     
 }
